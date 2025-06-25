@@ -1,2 +1,2 @@
-example_setting:
-  default: true
+redirect_destination:
+  default: "/t/you-cannot-access-this-page/92477"
