@@ -1,5 +1,9 @@
 # discourse-404-redirect
 
-**Theme Summary**
+**Redirect to particular page on 404**
 
-For more information, please see: **url to meta topic**
+If an ember page is `unknown`, redirect to the URL in theme setting `redirect_destination`.
+
+Works only on links from within the forum, not lines from outside and not if a broken/missing page is reloaded in the browser.
+
+Thanks to the [Grey Arrows Drone Club](https://greyarro.ws/) for funding development of this theme component.
